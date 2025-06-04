@@ -1,44 +1,27 @@
-## primeira alteração teste.
-## segunda alteração teste também.
+# Meu Primeiro Projeto-Portfólio
 
+Olá, me chamo Felipe Virginio e este é meu primeiro projeto-portfólio como desenvolvedor.  
+O objetivo deste projeto foi colocar em prática conceitos de desenvolvimento web utilizando Next.js, com hospedagem pela Vercel. Também incluí tecnologias modernas como Git, GitHub, Tailwind CSS e outras ferramentas que têm grande uso no mercado atual.
 
+## Tecnologias Utilizadas
 
+- **Next.js**: framework para aplicações React.
+- **Tailwind CSS**: ferramenta para estilização rápida e moderna.
+- **React Icons**: biblioteca de ícones para React.
+- **Framer Motion**: biblioteca de animações.
+- **Git e GitHub**: controle de versão e repositório remoto.
+- **Vercel**: plataforma para deploy de aplicações.
 
+## Instalação das Dependências
 
+Para configurar o ambiente e instalar as tecnologias utilizadas, foram executados os seguintes comandos:
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tailwind CSS
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 
-## Getting Started
+# React Icons
+npm install react-icons
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Framer Motion
+npm install framer-motion
